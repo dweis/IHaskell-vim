@@ -1,4 +1,4 @@
-# Jupyter / IHaskell with Vim plugin enabled
+# Docker container with Jupyter / IHaskell and vim bindings enabled
 
 ## Usage
 
